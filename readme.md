@@ -11,5 +11,5 @@ T
 n target
 nums1 nums2 nums3 ....
 ```
-Meaning that T is the number o test cases, n is the size of the nums list and target is the sum value
+Meaning that T is the number of test cases, n is the size of the nums list and target is the sum value
 Run the test using `./solution < in` to pass the input file to the program
